@@ -10,8 +10,8 @@ I built this because many thrift (ajo/esusu) groups still keep their ledger on p
 
 | Role | Email | Password |
 |------|-------|----------|
-| Admin | demo-admin@example.com | <demo password> |
-| Member | demo-member@example.com | <demo password> |
+| Admin | demo-admin@example.com | <123456> |
+| Member | demo-member@example.com | <135799> |
 
 All demo data is fake. Things to try:
 
