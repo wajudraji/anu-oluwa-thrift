@@ -4,7 +4,7 @@ A weekly savings, loan and fine ledger for a cooperative group, built with React
 
 I built this because many thrift (ajo/esusu) groups still keep their ledger on paper or in spreadsheets, where mistakes and disputes are common. This app records every payment, applies the group's rules automatically, and lets each member see only their own records.
 
-**Live demo:** <your-vercel-link>
+**Live demo:** <anu-oluwa-thrift.vercel.app>
 
 ## Try it
 
