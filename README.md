@@ -20,10 +20,6 @@ All demo data is fake. Things to try:
 3. As member, check that you only see your own ledger, and download a PDF receipt.
 4. As member, apply for a loan above the limit and see it rejected.
 
-## Screenshots
-
-<add 3 or 4 images here: admin ledger, collector tab, loan request, PDF receipt>
-
 ## How the thrift works
 
 - Members pay every Saturday. Any amount is allowed, with a minimum of ₦500 (₦1,000 if they have a loan).
@@ -72,8 +68,6 @@ Run the tests:
 npm test
 ```
 
-You will also need your own Supabase project with the tables, policies and functions set up.
-
 ## Decisions and what I learned
 
 - **Why server-side rules:** hiding a button in React doesn't stop a determined user. The database enforces the rules instead.
@@ -89,6 +83,3 @@ You will also need your own Supabase project with the tables, policies and funct
 - A password-change screen for members.
 - Database-level tests for the SQL functions.
 
-## Credits
-
-Built with help from Claude (an AI assistant) for code generation and debugging. The idea, the thrift rules and the design decisions are mine, from my own group's ledger.
